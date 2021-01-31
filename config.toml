@@ -32,6 +32,7 @@ disableRSS     = true
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
+disableKinds = "RSS"
 
 [frontmatter]
   date  = [":filename", ":default"]
@@ -58,8 +59,8 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = ""
-  keywords = ""
+  description = "無止盡的好奇心，問不完的為什麼。這裡是筆記簿落格，主要內容是網頁技術、趨勢。"
+  keywords = "frontend,f2e,網頁,Javascript,vue,git,docker,laradock"
   images = [""]
 
   homeSubtitle = "Welcome to my blog!"
