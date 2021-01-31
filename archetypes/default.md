@@ -1,6 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+draft: false
+toc: true
+categories: 
+  - categorie_name
+tags: 
+  - multiple_tags
 ---
 
