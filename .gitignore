@@ -1,0 +1,7 @@
+# IDE settings
+.vscode
+.idea
+
+# hugo generator file
+public/
+resources/
