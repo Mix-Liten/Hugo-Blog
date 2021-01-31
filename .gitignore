@@ -3,5 +3,5 @@
 .idea
 
 # hugo generator file
-# public/
+public/
 resources/
