@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://mix-liten.github.io/"
 languageCode = "zh-TW"
 title = "墨非默"
 theme = "hello-friend-ng"
