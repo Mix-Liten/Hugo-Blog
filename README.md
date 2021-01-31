@@ -1,5 +1,11 @@
 #使用手冊
 
+## 預覽
+```sh
+$ hugo server
+# -D 同時預覽草稿
+```
+
 ## 開新篇
 ``` sh
 $ sh newPost.sh
