@@ -1,7 +1,7 @@
 ---
 title: 在-macOS-上建立-Laradock-環境
 tags: [docker, laravel]
-category: [laravel]
+categories: [laravel]
 draft: false
 toc: true
 date: 2019-12-22 21:08:39

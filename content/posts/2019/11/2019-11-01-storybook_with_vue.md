@@ -1,7 +1,7 @@
 ---
 title: Vue with Storybook 概述
 tags: [Vue, Other]
-category: [Vue]
+categories: [Vue]
 draft: false
 toc: true
 date: 2019-11-01 17:36:29

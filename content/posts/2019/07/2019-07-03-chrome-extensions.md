@@ -1,7 +1,7 @@
 ---
 title: Chrome擴充應用初探
 tags: [chrome, diary]
-category: [Chrome]
+categories: [Chrome]
 draft: false
 toc: true
 date: 2019-07-03 21:56:40

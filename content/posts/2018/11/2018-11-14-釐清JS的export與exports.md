@@ -1,7 +1,7 @@
 ---
 title: 釐清JS的export／exports／require／import
 tags: [js]
-category: [Other]
+categories: [Other]
 draft: false
 toc: true
 date: 2018-11-14 20:24:23

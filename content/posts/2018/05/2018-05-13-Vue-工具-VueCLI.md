@@ -1,7 +1,7 @@
 ---
 title: Vue-工具-Vue CLI
 tags: [Vue]
-category: [Vue]
+categories: [Vue]
 draft: false
 toc: true
 date: 2018-05-13 19:44:26

@@ -1,7 +1,7 @@
 ---
 title: 在-macOS-上使用-Homebrew-安裝&更新-git
 tags: [安裝, Git, Homebrew]
-category: [Other]
+categories: [Other]
 draft: false
 toc: true
 date: 2019-12-25 23:32:25
