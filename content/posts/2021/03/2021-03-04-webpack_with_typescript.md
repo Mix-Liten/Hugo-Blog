@@ -40,26 +40,25 @@ tags:
     有兩種方式：
 
    - 安裝全域 typescript
-
-   ```sh
-   $ npm install typescript -g
-   $ tsc --init
-   ```
+      ```sh
+      $ npm install typescript -g
+      $ tsc --init
+      ```
 
    - 使用專案內的 typescript
+  
      package.json 的 scripts 新增建立指令並執行
+      ```json
+      {
+        "scripts": {
+          "tsconfig": "node_modules/.bin/tsc --init"
+        }
+      }
+      ```
 
-   ```json
-   {
-     "scripts": {
-       "tsconfig": "node_modules/.bin/tsc --init"
-     }
-   }
-   ```
-
-   ```sh
-   $ npm run tsconfig
-   ```
+      ```sh
+      $ npm run tsconfig
+      ```
 
 4. ### 新增 webpack.config.js 並添加以下設定
     ```js
@@ -119,7 +118,7 @@ tags:
     ```
 
 ## 總結
-不懂就看個觀念，懂的人看過之後，建議還是直接用框架的 cli，研究還好，別想不開重造輪子
+不懂就看個觀念，懂的看過之後，建議還是直接用框架的 cli
 
 ### 其他想法
 第六步驟，第一次建的時候覺得很奇怪，因為當時先建好 html 檔，引用了一個一開始不存在的檔案
